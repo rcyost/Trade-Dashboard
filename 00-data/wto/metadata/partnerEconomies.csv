@@ -1,0 +1,257 @@
+,code,displayOrder,name,iso3A
+0,000,0,World,
+1,004,10,Afghanistan,AFG
+2,950,20,Africa,
+3,008,40,Albania,ALB
+4,012,50,Algeria,DZA
+5,016,70,American Samoa,ASM
+6,020,90,Andorra,AND
+7,024,100,Angola,AGO
+8,660,110,Anguilla,AIA
+9,028,130,Antigua and Barbuda,ATG
+10,032,140,Argentina,ARG
+11,051,150,Armenia,ARM
+12,533,160,"Aruba, the Netherlands with respect to",ABW
+13,970,170,Asia,
+14,975,190,Association of Southeast Asian Nations (ASEAN),
+15,036,200,Australia,AUS
+16,040,220,Austria,AUT
+17,031,230,Azerbaijan,AZE
+18,044,250,Bahamas,BHS
+19,048,260,"Bahrain, Kingdom of",BHR
+20,050,270,Bangladesh,BGD
+21,052,280,Barbados,BRB
+22,112,290,Belarus,BLR
+23,056,300,Belgium,BEL
+24,058,310,Belgium-Luxembourg,BLX
+25,084,320,Belize,BLZ
+26,204,340,Benin,BEN
+27,060,350,Bermuda,BMU
+28,064,360,Bhutan,BTN
+29,068,380,"Bolivia, Plurinational State of",BOL
+30,535,385,"Bonaire, Sint Eustatius and Saba",
+31,070,390,Bosnia and Herzegovina,BIH
+32,072,400,Botswana,BWA
+33,074,410,Bouvet Island,BVT
+34,076,420,Brazil,BRA
+35,086,430,British Indian Ocean Territory,IOT
+36,096,440,Brunei Darussalam,BRN
+37,100,450,Bulgaria,BGR
+38,854,460,Burkina Faso,BFA
+39,108,480,Burundi,BDI
+40,132,485,Cabo Verde,CPV
+41,116,490,Cambodia,KHM
+42,120,500,Cameroon,CMR
+43,124,510,Canada,CAN
+44,136,560,Cayman Islands,CYM
+45,140,590,Central African Republic,CAF
+46,148,650,Chad,TCD
+47,152,660,Chile,CHL
+48,156,670,China,CHN
+49,162,680,Christmas Island,CXR
+50,166,690,Cocos (Keeling) Islands,CCK
+51,170,700,Colombia,COL
+52,910,730,"Commonwealth of Independent States (CIS), including certain associate and former member States",
+53,174,760,Comoros,COM
+54,178,770,Congo,COG
+55,184,780,Cook Islands,COK
+56,188,800,Costa Rica,CRI
+57,384,810,Côte d'Ivoire,CIV
+58,191,820,Croatia,HRV
+59,192,830,Cuba,CUB
+60,531,850,Curaçao,CUW
+61,196,870,Cyprus,CYP
+62,203,890,Czech Republic,CZE
+63,180,920,Democratic Republic of the Congo,COD
+64,208,930,Denmark,DNK
+65,262,980,Djibouti,DJI
+66,212,990,Dominica,DMA
+67,214,1000,Dominican Republic,DOM
+68,218,1110,Ecuador,ECU
+69,818,1120,Egypt,EGY
+70,222,1130,El Salvador,SLV
+71,226,1140,Equatorial Guinea,GNQ
+72,232,1150,Eritrea,ERI
+73,233,1160,Estonia,EST
+74,748,1165,Eswatini,SWZ
+75,231,1170,Ethiopia,ETH
+76,927,1189,Euro Area (19),
+77,905,1190,Europe,
+78,918,1240,European Union,EEC
+79,899,1243,European Union (partner code),EEC
+80,928,1243,European Union (28),
+81,228,1244,"European Union, n.e.s.",
+82,EUT,1252,Extra EU Trade,
+83,E28,1253,Extra EU(28) Trade,
+84,ZX9,1253,Extra Euro Area (19) Trade,
+85,234,1270,Faeroe Islands,FRO
+86,242,1290,Fiji,FJI
+87,246,1300,Finland,FIN
+88,250,1310,France,FRA
+89,258,1370,French Polynesia,PYF
+90,260,1380,French Southern Territories,ATF
+91,946,1391,G-7 (Group of Seven),
+92,266,1400,Gabon,GAB
+93,270,1405,The Gambia,GMB
+94,268,1410,Georgia,GEO
+95,276,1430,Germany,DEU
+96,288,1450,Ghana,GHA
+97,292,1460,Gibraltar,GIB
+98,300,1470,Greece,GRC
+99,304,1480,Greenland,GRL
+100,308,1490,Grenada,GRD
+101,316,1510,Guam,GUM
+102,320,1520,Guatemala,GTM
+103,321,1521,Guernsey,GGY
+104,324,1530,Guinea,GIN
+105,624,1540,Guinea-Bissau,GNB
+106,328,1550,Guyana,GUY
+107,332,1560,Haiti,HTI
+108,334,1570,Heard Island and Mcdonald Islands,HMD
+109,336,1580,Holy See,VAT
+110,340,1590,Honduras,HND
+111,344,1600,"Hong Kong, China",HKG
+112,348,1610,Hungary,HUN
+113,352,1620,Iceland,ISL
+114,356,1630,India,IND
+115,360,1640,Indonesia,IDN
+116,364,1650,Iran,IRN
+117,368,1660,Iraq,IRQ
+118,372,1670,Ireland,IRL
+119,376,1680,Israel,ISR
+120,380,1690,Italy,ITA
+121,388,1700,Jamaica,JAM
+122,392,1710,Japan,JPN
+123,393,1711,Jersey,JEY
+124,400,1720,Jordan,JOR
+125,398,1730,Kazakhstan,KAZ
+126,404,1740,Kenya,KEN
+127,296,1750,Kiribati,KIR
+128,408,1760,"Korea, Democratic People's Republic of",PRK
+129,410,1770,"Korea, Republic of",KOR
+130,414,1780,"Kuwait, the State of",KWT
+131,417,1790,Kyrgyz Republic,KGZ
+132,418,1800,Lao People's Democratic Republic,LAO
+133,428,1820,Latvia,LVA
+134,422,1840,Lebanese Republic,LBN
+135,426,1850,Lesotho,LSO
+136,430,1860,Liberia,LBR
+137,434,1870,Libya,LBY
+138,438,1880,Liechtenstein,LIE
+139,440,1890,Lithuania,LTU
+140,442,1900,Luxembourg,LUX
+141,446,1910,"Macao, China",MAC
+142,450,1920,Madagascar,MDG
+143,454,1930,Malawi,MWI
+144,458,1950,Malaysia,MYS
+145,462,1960,Maldives,MDV
+146,466,1970,Mali,MLI
+147,470,1980,Malta,MLT
+148,471,1981,Isle of Man,IMN
+149,584,1990,Marshall Islands,MHL
+150,478,2010,Mauritania,MRT
+151,480,2020,Mauritius,MUS
+152,175,2030,Mayotte,MYT
+153,484,2050,Mexico,MEX
+154,583,2060,"Micronesia, Federated States of",FSM
+155,498,2090,"Moldova, Republic of",MDA
+156,496,2110,Mongolia,MNG
+157,893,2120,Montenegro,MNE
+158,500,2130,Montserrat,MSR
+159,504,2140,Morocco,MAR
+160,508,2150,Mozambique,MOZ
+161,104,2160,Myanmar,MMR
+162,516,2170,Namibia,NAM
+163,520,2180,Nauru,NRU
+164,524,2190,Nepal,NPL
+165,528,2200,Netherlands,NLD
+166,530,2210,Netherlands Antilles,ANT
+167,540,2230,New Caledonia,NCL
+168,554,2240,New Zealand,NZL
+169,558,2260,Nicaragua,NIC
+170,562,2270,Niger,NER
+171,566,2280,Nigeria,NGA
+172,570,2290,Niue,NIU
+173,931,2320,North America,
+174,807,2335,North Macedonia,MKD
+175,580,2340,Northern Mariana Islands,MNP
+176,578,2360,Norway,NOR
+177,512,2390,Oman,OMN
+178,945,2391,OPEC (Organization of the Petroleum Exporting Countries),
+179,990,2430,"Other Countries, n.e.s.",
+180,586,2490,Pakistan,PAK
+181,585,2500,Palau,PLW
+182,275,2510,Palestine,PSE
+183,591,2520,Panama,PAN
+184,598,2540,Papua New Guinea,PNG
+185,600,2550,Paraguay,PRY
+186,604,2560,Peru,PER
+187,608,2570,Philippines,PHL
+188,612,2580,Pitcairn,PCN
+189,616,2590,Poland,POL
+190,620,2600,Portugal,PRT
+191,634,2620,Qatar,QAT
+192,642,2650,Romania,ROM
+193,643,2660,Russian Federation,RUS
+194,646,2670,Rwanda,RWA
+195,654,2680,"British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha",SHN
+196,659,2690,Saint Kitts and Nevis,KNA
+197,662,2700,Saint Lucia,LCA
+198,534,2710,Saint Martin,SXM
+199,670,2730,Saint Vincent and the Grenadines,VCT
+200,882,2740,Samoa,WSM
+201,674,2750,San Marino,SMR
+202,678,2760,Sao Tomé and Principe,STP
+203,682,2770,"Saudi Arabia, Kingdom of",SAU
+204,686,2780,Senegal,SEN
+205,892,2790,Serbia,SRB
+206,891,2800,Serbia and Montenegro,SCG
+207,690,2810,Seychelles,SYC
+208,694,2820,Sierra Leone,SLE
+209,702,2830,Singapore,SGP
+210,703,2840,Slovak Republic,SVK
+211,705,2850,Slovenia,SVN
+212,090,2860,Solomon Islands,SLB
+213,706,2870,Somalia,SOM
+214,710,2890,South Africa,ZAF
+215,239,2940,South Georgia and the South Sandwich Islands,SGS
+216,728,2950,South Sudan,SSD
+217,724,3010,Spain,ESP
+218,144,3020,Sri Lanka,LKA
+219,736,3040,Sudan,SDN
+220,740,3050,Suriname,SUR
+221,752,3080,Sweden,SWE
+222,756,3090,Switzerland,CHE
+223,760,3100,Syrian Arab Republic,SYR
+224,158,3110,Chinese Taipei,CHT
+225,762,3120,Tajikistan,TJK
+226,834,3130,Tanzania,TZA
+227,764,3140,Thailand,THA
+228,626,3170,Timor-Leste,TLS
+229,768,3180,Togo,TGO
+230,772,3190,Tokelau,TKL
+231,776,3200,Tonga,TON
+232,780,3220,Trinidad and Tobago,TTO
+233,788,3240,Tunisia,TUN
+234,792,3250,Turkey,TUR
+235,795,3260,Turkmenistan,TKM
+236,796,3270,Turks and Caicos Islands,TCA
+237,798,3280,Tuvalu,TUV
+238,800,3310,Uganda,UGA
+239,804,3320,Ukraine,UKR
+240,784,3340,United Arab Emirates,ARE
+241,826,3360,United Kingdom,GBR
+242,581,3370,United States Minor Outlying Islands,UMI
+243,840,3380,United States of America,USA
+244,888,3390,UNMIK/Kosovo,
+245,858,3420,Uruguay,URY
+246,860,3430,Uzbekistan,UZB
+247,548,3440,Vanuatu,VUT
+248,862,3460,"Venezuela, Bolivarian Republic of",VEN
+249,704,3470,Viet Nam,VNM
+250,092,3490,"Virgin Islands, British",VGB
+251,876,3510,Wallis and Futuna Islands,WLF
+252,887,3620,Yemen,YEM
+253,890,3650,"Yugoslavia, Socialist Federal Republic of",YUG
+254,894,3670,Zambia,ZMB
+255,716,3690,Zimbabwe,ZWE

@@ -1,0 +1,293 @@
+,code,displayOrder,name,iso3A
+0,000,0,World,
+1,004,10,Afghanistan,AFG
+2,950,20,Africa,
+3,962,30,"African, Caribbean and Pacific States (ACP)",
+4,986,35,"Africa, CIS and Middle East",
+5,008,40,Albania,ALB
+6,012,50,Algeria,DZA
+7,016,70,American Samoa,ASM
+8,937,80,Andean Community (ANDEAN),
+9,020,90,Andorra,AND
+10,024,100,Angola,AGO
+11,660,110,Anguilla,AIA
+12,028,130,Antigua and Barbuda,ATG
+13,032,140,Argentina,ARG
+14,051,150,Armenia,ARM
+15,533,160,"Aruba, the Netherlands with respect to",ABW
+16,970,170,Asia,
+17,980,180,Asia-Pacific Economic Cooperation (APEC),
+18,975,190,Association of Southeast Asian Nations (ASEAN),
+19,036,200,Australia,AUS
+20,983,205,Australia and New Zealand,
+21,040,220,Austria,AUT
+22,031,230,Azerbaijan,AZE
+23,044,250,Bahamas,BHS
+24,048,260,"Bahrain, Kingdom of",BHR
+25,050,270,Bangladesh,BGD
+26,052,280,Barbados,BRB
+27,112,290,Belarus,BLR
+28,056,300,Belgium,BEL
+29,058,310,Belgium-Luxembourg,BLX
+30,084,320,Belize,BLZ
+31,204,340,Benin,BEN
+32,060,350,Bermuda,BMU
+33,064,360,Bhutan,BTN
+34,068,380,"Bolivia, Plurinational State of",BOL
+35,535,385,"Bonaire, Sint Eustatius and Saba",
+36,070,390,Bosnia and Herzegovina,BIH
+37,072,400,Botswana,BWA
+38,076,420,Brazil,BRA
+39,981,425,BRIC members,
+40,982,426,BRICS members,
+41,096,440,Brunei Darussalam,BRN
+42,100,450,Bulgaria,BGR
+43,854,460,Burkina Faso,BFA
+44,108,480,Burundi,BDI
+45,132,485,Cabo Verde,CPV
+46,116,490,Cambodia,KHM
+47,120,500,Cameroon,CMR
+48,124,510,Canada,CAN
+49,941,550,Caribbean Community (CARICOM),
+50,136,560,Cayman Islands,CYM
+51,964,580,Central African Economic and Monetary Community (CAEMC),
+52,140,590,Central African Republic,CAF
+53,938,610,Central American Common Market (CACM),
+54,148,650,Chad,TCD
+55,152,660,Chile,CHL
+56,156,670,China,CHN
+57,170,700,Colombia,COL
+58,958,710,Common Market for Eastern and Southern Africa (COMESA),
+59,910,730,"Commonwealth of Independent States (CIS), including certain associate and former member States",
+60,174,760,Comoros,COM
+61,178,770,Congo,COG
+62,184,780,Cook Islands,COK
+63,188,800,Costa Rica,CRI
+64,384,810,Côte d'Ivoire,CIV
+65,191,820,Croatia,HRV
+66,192,830,Cuba,CUB
+67,531,850,Curaçao,CUW
+68,196,870,Cyprus,CYP
+69,201,880,Czech and Slovak Federal Republic,
+70,203,890,Czech Republic,CZE
+71,180,920,Democratic Republic of the Congo,COD
+72,208,930,Denmark,DNK
+73,262,980,Djibouti,DJI
+74,212,990,Dominica,DMA
+75,214,1000,Dominican Republic,DOM
+76,943,1108,ECCAS (Economic Community of Central African States),
+77,218,1110,Ecuador,ECU
+78,818,1120,Egypt,EGY
+79,222,1130,El Salvador,SLV
+80,226,1140,Equatorial Guinea,GNQ
+81,232,1150,Eritrea,ERI
+82,233,1160,Estonia,EST
+83,748,1165,Eswatini,SWZ
+84,231,1170,Ethiopia,ETH
+85,230,1180,Ethiopia (+ Eritrea),
+86,927,1189,Euro Area (19),
+87,905,1190,Europe,
+88,923,1230,European Free Trade Association (EFTA),
+89,918,1240,European Union,EEC
+90,928,1243,European Union (28),
+91,234,1270,Faeroe Islands,FRO
+92,242,1290,Fiji,FJI
+93,246,1300,Finland,FIN
+94,948,1305,Four East Asian traders,
+95,250,1310,France,FRA
+96,254,1350,French Guiana,
+97,258,1370,French Polynesia,PYF
+98,260,1380,French Southern Territories,ATF
+99,985,1390,G-20,
+100,946,1391,G-7 (Group of Seven),
+101,266,1400,Gabon,GAB
+102,270,1405,The Gambia,GMB
+103,268,1410,Georgia,GEO
+104,278,1420,German Democratic Republic,DDR
+105,276,1430,Germany,DEU
+106,280,1440,"Germany, Federal Republic of",
+107,288,1450,Ghana,GHA
+108,292,1460,Gibraltar,GIB
+109,300,1470,Greece,GRC
+110,304,1480,Greenland,GRL
+111,308,1490,Grenada,GRD
+112,312,1500,Guadeloupe,
+113,316,1510,Guam,GUM
+114,320,1520,Guatemala,GTM
+115,324,1530,Guinea,GIN
+116,624,1540,Guinea-Bissau,GNB
+117,966,1545,Gulf Cooperation Council (GCC),
+118,328,1550,Guyana,GUY
+119,332,1560,Haiti,HTI
+120,340,1590,Honduras,HND
+121,344,1600,"Hong Kong, China",HKG
+122,348,1610,Hungary,HUN
+123,352,1620,Iceland,ISL
+124,356,1630,India,IND
+125,360,1640,Indonesia,IDN
+126,364,1650,Iran,IRN
+127,368,1660,Iraq,IRQ
+128,372,1670,Ireland,IRL
+129,376,1680,Israel,ISR
+130,380,1690,Italy,ITA
+131,388,1700,Jamaica,JAM
+132,392,1710,Japan,JPN
+133,400,1720,Jordan,JOR
+134,398,1730,Kazakhstan,KAZ
+135,404,1740,Kenya,KEN
+136,296,1750,Kiribati,KIR
+137,408,1760,"Korea, Democratic People's Republic of",PRK
+138,410,1770,"Korea, Republic of",KOR
+139,414,1780,"Kuwait, the State of",KWT
+140,417,1790,Kyrgyz Republic,KGZ
+141,992,1795,Landlocked developing countries,
+142,418,1800,Lao People's Democratic Republic,LAO
+143,428,1820,Latvia,LVA
+144,LAX,1825,LDC exporters of agriculture,
+145,LMX,1826,LDC exporters of manufactures,
+146,LFX,1827,LDC non-fuel mineral exporters,
+147,LOX,1828,LDC oil exporters,
+148,997,1830,Least-developed countries,
+149,422,1840,Lebanese Republic,LBN
+150,426,1850,Lesotho,LSO
+151,430,1860,Liberia,LBR
+152,434,1870,Libya,LBY
+153,440,1890,Lithuania,LTU
+154,442,1900,Luxembourg,LUX
+155,446,1910,"Macao, China",MAC
+156,450,1920,Madagascar,MDG
+157,454,1930,Malawi,MWI
+158,458,1950,Malaysia,MYS
+159,462,1960,Maldives,MDV
+160,466,1970,Mali,MLI
+161,470,1980,Malta,MLT
+162,584,1990,Marshall Islands,MHL
+163,474,2000,Martinique,
+164,478,2010,Mauritania,MRT
+165,480,2020,Mauritius,MUS
+166,175,2030,Mayotte,MYT
+167,484,2050,Mexico,MEX
+168,583,2060,"Micronesia, Federated States of",FSM
+169,965,2070,Middle East,
+170,498,2090,"Moldova, Republic of",MDA
+171,496,2110,Mongolia,MNG
+172,893,2120,Montenegro,MNE
+173,500,2130,Montserrat,MSR
+174,504,2140,Morocco,MAR
+175,508,2150,Mozambique,MOZ
+176,104,2160,Myanmar,MMR
+177,516,2170,Namibia,NAM
+178,520,2180,Nauru,NRU
+179,524,2190,Nepal,NPL
+180,528,2200,Netherlands,NLD
+181,530,2210,Netherlands Antilles,ANT
+182,532,2211,Netherlands Antilles (incl. Aruba),
+183,540,2230,New Caledonia,NCL
+184,554,2240,New Zealand,NZL
+185,558,2260,Nicaragua,NIC
+186,562,2270,Niger,NER
+187,566,2280,Nigeria,NGA
+188,570,2290,Niue,NIU
+189,OSE,2295,Non-EU south-eastern Europe,
+190,OWE,2296,Non-EU western Europe,
+191,931,2320,North America,
+192,940,2330,North American Free Trade Agreement (NAFTA),
+193,807,2335,North Macedonia,MKD
+194,580,2340,Northern Mariana Islands,MNP
+195,578,2360,Norway,NOR
+196,947,2385,OIC (Organisation of Islamic Cooperation),
+197,512,2390,Oman,OMN
+198,945,2391,OPEC (Organization of the Petroleum Exporting Countries),
+199,OAF,2399,Other Africa,
+200,OAS,2419,Other Asia,
+201,OCI,2429,Other CIS,
+202,942,2489,Pacific Alliance,
+203,586,2490,Pakistan,PAK
+204,585,2500,Palau,PLW
+205,275,2510,Palestine,PSE
+206,591,2520,Panama,PAN
+207,598,2540,Papua New Guinea,PNG
+208,600,2550,Paraguay,PRY
+209,604,2560,Peru,PER
+210,608,2570,Philippines,PHL
+211,616,2590,Poland,POL
+212,620,2600,Portugal,PRT
+213,634,2620,Qatar,QAT
+214,638,2640,Reunion,
+215,642,2650,Romania,ROM
+216,643,2660,Russian Federation,RUS
+217,646,2670,Rwanda,RWA
+218,659,2690,Saint Kitts and Nevis,KNA
+219,662,2700,Saint Lucia,LCA
+220,534,2710,Saint Martin,SXM
+221,666,2720,Saint Pierre and Miquelon,SPM
+222,670,2730,Saint Vincent and the Grenadines,VCT
+223,882,2740,Samoa,WSM
+224,678,2760,Sao Tomé and Principe,STP
+225,682,2770,"Saudi Arabia, Kingdom of",SAU
+226,686,2780,Senegal,SEN
+227,892,2790,Serbia,SRB
+228,891,2800,Serbia and Montenegro,SCG
+229,690,2810,Seychelles,SYC
+230,694,2820,Sierra Leone,SLE
+231,702,2830,Singapore,SGP
+232,949,2835,Six East Asian traders,
+233,703,2840,Slovak Republic,SVK
+234,705,2850,Slovenia,SVN
+235,090,2860,Solomon Islands,SLB
+236,706,2870,Somalia,SOM
+237,710,2890,South Africa,ZAF
+238,932,2910,South and Central America and the Caribbean,
+239,977,2920,South Asian Association for Regional Cooperation (SAARC),
+240,728,2950,South Sudan,SSD
+241,961,2980,Southern African Development Community (SADC),
+242,939,2990,Southern Common Market (MERCOSUR),
+243,944,2991,"Southern Common Market (MERCOSUR) excluding Venezuela, Bolivarian Republic of",
+244,724,3010,Spain,ESP
+245,144,3020,Sri Lanka,LKA
+246,736,3040,Sudan,SDN
+247,740,3050,Suriname,SUR
+248,747,3070,Swaziland,
+249,752,3080,Sweden,SWE
+250,756,3090,Switzerland,CHE
+251,760,3100,Syrian Arab Republic,SYR
+252,158,3110,Chinese Taipei,CHT
+253,762,3120,Tajikistan,TJK
+254,834,3130,Tanzania,TZA
+255,764,3140,Thailand,THA
+256,808,3150,The former Yugoslav Republic of Macedonia,
+257,626,3170,Timor-Leste,TLS
+258,768,3180,Togo,TGO
+259,772,3190,Tokelau,TKL
+260,776,3200,Tonga,TON
+261,780,3220,Trinidad and Tobago,TTO
+262,788,3240,Tunisia,TUN
+263,792,3250,Turkey,TUR
+264,795,3260,Turkmenistan,TKM
+265,796,3270,Turks and Caicos Islands,TCA
+266,798,3280,Tuvalu,TUV
+267,810,3300,U.S.S.R.,SUN
+268,800,3310,Uganda,UGA
+269,804,3320,Ukraine,UKR
+270,784,3340,United Arab Emirates,ARE
+271,826,3360,United Kingdom,GBR
+272,840,3380,United States of America,USA
+273,888,3390,UNMIK/Kosovo,
+274,858,3420,Uruguay,URY
+275,860,3430,Uzbekistan,UZB
+276,548,3440,Vanuatu,VUT
+277,863,3450,Venezuela,
+278,862,3460,"Venezuela, Bolivarian Republic of",VEN
+279,704,3470,Viet Nam,VNM
+280,092,3490,"Virgin Islands, British",VGB
+281,876,3510,Wallis and Futuna Islands,WLF
+282,957,3530,West African Economic and Monetary Union (WAEMU),
+283,959,3540,West African Economic Community (ECOWAS),
+284,900,3600,WTO Members,
+285,902,3610,WTO Observer governments,
+286,887,3620,Yemen,YEM
+287,886,3630,"Yemen, Arab Republic of",
+288,720,3640,"Yemen, People's Democratic Republic",
+289,890,3650,"Yugoslavia, Socialist Federal Republic of",YUG
+290,894,3670,Zambia,ZMB
+291,716,3690,Zimbabwe,ZWE
